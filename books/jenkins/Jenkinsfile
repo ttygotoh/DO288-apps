@@ -14,7 +14,7 @@ pipeline {
         //TODO: Edit these vars as per your env
         DEV_PROJECT = "tatsuya-g-books-dev"
         STAGE_PROJECT = "tatsuya-g-books-stage"
-        APP_GIT_URL = "https://github.com/youruser/DO288-apps"
+        APP_GIT_URL = "https://github.com/ttygotoh/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-na2.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
